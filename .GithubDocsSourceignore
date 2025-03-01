@@ -1,0 +1,29 @@
+# コメント
+// TODO:
+// FIXME:
+// NOTE:
+// HACK:
+// XXX:
+// BUG:
+# TODO:
+# FIXME:
+# NOTE:
+# HACK:
+# XXX:
+# BUG:
+
+# デバッグ用コード
+console.log
+console.debug
+console.error
+print(
+logger.debug
+logger.info
+
+# 型無視
+// @ts-ignore
+// @ts-nocheck
+# type: ignore
+
+# その他
+debugger;

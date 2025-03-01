@@ -1,0 +1,31 @@
+# 一般的な無視パターン
+.git/
+.github/
+node_modules/
+__pycache__/
+venv/
+.env
+.env.example
+.gitignore
+.DS_Store
+Thumbs.db
+
+# ビルドファイル
+dist/
+build/
+*.min.js
+*.min.css
+
+# ログファイル
+*.log
+logs/
+
+# キャッシュファイル
+.cache/
+.pytest_cache/
+.eslintcache
+
+# その他
+*.bak
+*.swp
+*.swo 
